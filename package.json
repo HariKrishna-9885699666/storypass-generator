@@ -61,28 +61,6 @@
     "vaul": "^0.9.9",
     "zod": "^3.25.76"
   },
-  "author": {
-    "name": "Hari Krishna Anem",
-    "email": "anemharikrishna@gmail.com",
-    "url": "https://harikrishna.netlify.app"
-  },
-  "homepage": "https://harikrishna.netlify.app",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/HariKrishna-9885699666"
-  },
-  "bugs": {
-    "url": "https://github.com/HariKrishna-9885699666/storypass-generator/issues"
-  },
-  "license": "MIT",
-  "contact": {
-    "phone": "+91 9885699666",
-    "city": "Hyderabad, India",
-    "degree": "B.Tech (CSIT)",
-    "github": "HariKrishna-9885699666",
-    "linkedin": "anemharikrishna",
-    "blog": "https://hashnode.com/@anemharikrishna"
-  },
   "devDependencies": {
     "@eslint/js": "^9.32.0",
     "@tailwindcss/typography": "^0.5.16",
